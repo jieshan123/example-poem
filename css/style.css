@@ -2,11 +2,15 @@
 /*This is a comment in CSS*/
 
 body{
-    font-family: Georgia, serif;
+    font-family: fantasy;
+    font-size: 50px;
+    color: brown;
 }
 
 h1{
-    font-size: 30px;
+    font-family: fantasy;
+    
+
 }
 
 p{
